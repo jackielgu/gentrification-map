@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"year": 2018,
+
+"features": [
+{ "type": "Feature", "link": "http://www.yelp.com/biz/mellows-cafe-san-francisco-3", "properties": { "Name": "Mellow's Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4812737,37.74298] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/blue-bottle-coffee-san-francisco-14", "properties": { "Name": "Blue Bottle "}, "geometry": { "type": "Point", "coordinates": [-122.4009813,37.7914343] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/philz-coffee-san-francisco-22", "properties": { "Name": "Philz "}, "geometry": { "type": "Point", "coordinates": [-122.3989854,37.7918198] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/the-soapbox-cafe-san-francisco", "properties": { "Name": "Soapbox Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.418568,37.7975116] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/ro-cafe-san-francisco-2", "properties": { "Name": "Ro Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.448526,37.7820721] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/tea-papa-san-francisco", "properties": { "Name": "Tea Papa "}, "geometry": { "type": "Point", "coordinates": [-122.4648344,37.777341] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/tea-fm-san-francisco-3", "properties": { "Name": "Tea FM "}, "geometry": { "type": "Point", "coordinates": [-122.4809192,37.7425987] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/george-and-lennie-san-francisco", "properties": { "Name": "George and Lennie "}, "geometry": { "type": "Point", "coordinates": [-122.4150428,37.7815648] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/harmonic-brewing-san-francisco", "properties": { "Name": "Harmonic Brewing "}, "geometry": { "type": "Point", "coordinates": [-122.390069,37.751622] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/asha-tea-house-san-francisco", "properties": { "Name": "Asha Tea House "}, "geometry": { "type": "Point", "coordinates": [-122.4036958,37.7881803] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/irving-cafe-san-francisco-6", "properties": { "Name": "Irving Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4656365,37.764264] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/the-plant-cafe-organic-san-francisco-17", "properties": { "Name": "The Plant Cafe Organic "}, "geometry": { "type": "Point", "coordinates": [-122.3884317,37.7600593] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/the-plant-cafe-organic-san-francisco-16", "properties": { "Name": "The Plant Cafe Organic "}, "geometry": { "type": "Point", "coordinates": [-122.402331,37.7917046] } }
+]
+}

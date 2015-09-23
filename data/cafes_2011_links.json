@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+"year": 2011,
+
+"features": [
+{ "type": "Feature", "link": "http://www.yelp.com/biz/blue-bottle-coffee-san-francisco-10", "properties": { "Name": "Blue Bottle "}, "geometry": { "type": "Point", "coordinates": [-122.3935035,37.7955755] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/grand-coffee-san-francisco", "properties": { "Name": "Grand Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4185404,37.7545252] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/borderlands-caf%C3%A9-san-francisco-2", "properties": { "Name": "Borderlands Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4215582,37.7589881] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/farm-table-san-francisco", "properties": { "Name": "farm:table "}, "geometry": { "type": "Point", "coordinates": [-122.4143293,37.7876956] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/la-stazione-coffee-and-wine-bar-san-francisco", "properties": { "Name": "La Stazione "}, "geometry": { "type": "Point", "coordinates": [-122.3928607,37.7574869] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/mercury-cafe-san-francisco", "properties": { "Name": "Mercury Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4243743,37.7740028] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/vega-at-langton-san-francisco-2", "properties": { "Name": "Vega at Langton "}, "geometry": { "type": "Point", "coordinates": [-122.4110039,37.7745928] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/dynamo-donut-coffee-san-francisco-2", "properties": { "Name": "Dynamo Donut + Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4076626,37.7530427] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/delise-cafe-san-francisco-2", "properties": { "Name": "Delise Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.412776,37.8056086] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/kafe-99-sqft-san-francisco", "properties": { "Name": "Kafe 99 SqFt "}, "geometry": { "type": "Point", "coordinates": [-122.4142652,37.762263] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/fra%C3%AEche-san-francisco-3", "properties": { "Name": "Fraiche "}, "geometry": { "type": "Point", "coordinates": [-122.4333613,37.7874319] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/daniels-cafe-san-francisco-2", "properties": { "Name": "Daniel's Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4089355,37.7854975] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/special-xtra-san-francisco", "properties": { "Name": "Special Xtra "}, "geometry": { "type": "Point", "coordinates": [-122.3982348,37.7886363] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/cafe-seventy8-san-francisco", "properties": { "Name": "Cafe Seventy8 "}, "geometry": { "type": "Point", "coordinates": [-122.4217304,37.7441288] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/alamo-square-cafe-san-francisco", "properties": { "Name": "Alamo Square Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4314697,37.7760326] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/haus-coffee-san-francisco", "properties": { "Name": "Haus Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4137367,37.7526578] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/lous-cafe-san-francisco", "properties": { "Name": "Lou's Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4733048,37.7804061] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/sweet-chinito-san-francisco", "properties": { "Name": "Sweet Chinito "}, "geometry": { "type": "Point", "coordinates": [-122.4186202,37.7479036] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/caffe-cento-san-francisco", "properties": { "Name": "Caffe Cento "}, "geometry": { "type": "Point", "coordinates": [-122.4094565,37.7922188] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/cumaica-coffee-san-francisco-5", "properties": { "Name": "Cumaica Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4366122,37.7227232] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/the-roastery-san-francisco", "properties": { "Name": "The Roastery "}, "geometry": { "type": "Point", "coordinates": [-122.399255,37.7866252] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/the-brew-san-francisco", "properties": { "Name": "The Brew "}, "geometry": { "type": "Point", "coordinates": [-122.4222261,37.7993302] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/blue-hawaii-a%C3%A7a%C3%AD-caf%C3%A9-san-francisco-2", "properties": { "Name": "Blue Hawaii Acai Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4100037,37.7946342] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/ashleys-cafe-san-francisco", "properties": { "Name": "Ashley's Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4655134,37.7850738] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/sausalito-cafe-san-francisco-4", "properties": { "Name": "Sausalito Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.40377,37.7953334] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/coffee-smith-san-francisco", "properties": { "Name": "Coffee Smith "}, "geometry": { "type": "Point", "coordinates": [-122.4173942,37.7812807] } },
+{ "type": "Feature", "link": "http://www.yelp.com/biz/cumaica-coffee-san-francisco-3", "properties": { "Name": "Cumaica Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4408336,37.7881781] } }
+]
+}

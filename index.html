@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+		<script src="lib/topojson.v1.min.js"></script>
+		<script src="lib/queue.v1.min.js"></script>
+		<script src="lib/d3.slider.js"></script>
+		<script src="lib/d3.tip.js"></script>
+		<script src="lib/jquery.min.js"></script>
+		<link href='https://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+		<link rel='stylesheet' type'text/css' href='main.css'/>
+		<link rel="stylesheet" href="lib/d3.slider.css" />
+  </head>
+
+  <body>    
+
+ 		<div class="container">
+
+ 			<div class="title-container">
+ 				<div class="title-text">
+ 					<h3 class="title" style="font-size: 30px; color: #545454; margin-bottom: 15px"> which came first, the coffee shop or the gentrifier? </h3>
+ 					<div class="description" style="font-size: 16px; color: #545454">
+ 						This map displays the geographical relationship between rent prices and coffee shops in San Francisco neighborhoods.
+ 						<a id="showMore" href='#'> ... more </a> 
+ 					</div>
+ 				</div>
+ 			</div>
+
+    	<div id="labels">
+    			Select a year: <span id="currentYear">pre-2010</span><br/>
+    			Neighborhood: <span id="currentNeighborhood"></span><br/>
+ 					Average monthly rent: <span id="currentRent"></span>
+ 			</div>
+
+ 			    	<div id="slider-div"></div>
+
+
+    	<div id="map">
+    		<script src="map.js"></script>
+    	</div>
+
+    	<div id='essayBox'>
+    		<div id='essayBox-close' class='glyphicon glyphicon-remove'></div>
+    		<div id='essayContent'>
+					<p>Inspired by the <a href="www.antievictionmappingproject.net">Anti-Eviction Mapping Project</a>, this map strives to explore the link between gentrification and neighborhood coffee shops.</p>
+
+					<p>The phenomenon of gentrification is easy enough to quantify: we can look at now-and-then comparisons of racial breakdowns, percentage of college-educated adults, or average income, just to name a few numerical markers. But what's the street-view version of it? A brief perusal of Craigslist, Airbnb, or similar housing forums reveal a carelessly codified language that paint an image of what gentrification of a neighborhood physically looks like. "Safe, up-and-coming neighborhood," many advertise. "Young families," "new wine bars opening," "hip restaurants," "prime location," "artsy" &mdash; it seems clear what these terms really signify.</p> 
+
+					<p>Here's the thing: if you <i>really</i> want an idea of how high the rent in a given area is, count the yoga studios. Count the vintage clothing shops, the art galleries, the restaurants that use mason jars in place of glasses, the man-bun-sporting white millenials, the Trader Joes and Whole Foods. And, of course, the coffee shops, replete with cheeky names on chalkboard menus and $5 mint-infused mochas. It's a curious correlation: why is cold brew such an overt symbol of second-wave gentrification? And what, exactly, powers the phenomenon &mdash; do the yuppies drive rent up, or is it the swathes of trendy coffee shops that follow? Or maybe precede? Where does the displacement begin?</p>
+
+					<p>I don't have the answers to these questions, but I wanted to gather and visualize the data that might provide some insight. Each red dot on this map represents a coffee shop; the year it appears represents the year it opened. Clicking on a point will bring you to the Yelp page of that coffee shop. The opacity of the neighborhood background corresponds to the median rent of a one-bedroom apartment &mdash; the higher the rent, the darker the blue.</p>
+
+					<p>Housing data was collected via Zumper, Zillow, Priceonomics, and Padmapper. To resolve conflicting data for the same neighborhood at the same timestamp, I took the mean.</p> 
+
+					<a id="backToMap" href='#'>back to map</a>
+
+    		</div>
+
+    	</div>
+
+  </body>
+</html>
