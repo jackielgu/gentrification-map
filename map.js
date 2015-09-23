@@ -43,7 +43,7 @@ function setMap() {
 					.attr("height", height);
 
 	loadData();
-	loadCafeData();
+	// loadCafeData();
 
 }
 
@@ -155,6 +155,7 @@ function drawMap(airbnbFile, roadsFile) {
 		 });
 
 	setupLightBox();
+	loadCafeData();
 
 
 }
