@@ -1,18 +1,18 @@
 // GLOBALS
 var projection, 
-		path, 
-		svg, 
-		attributeArray = [], 
-		currentAttribute = 0, 
-		playing = false;
+	path, 
+	svg, 
+	attributeArray = [], 
+	currentAttribute = 0, 
+	playing = false;
 
 var sliderScale,
-		slider;
+	slider;
 
 var allCafeDataObj = {};
 var yearsVisitedArray = [],
-	  currentyear = 2009,
-		lastyear;
+	currentyear = 2009,
+	lastyear;
 
 var tips;
 
@@ -26,7 +26,7 @@ function init() {
 function setMap() {
 
 	var width = 1000,
-			height = 600;	
+		height = 600;	
 
 	projection = d3.geo.albers()
 		.scale( 350000 )
@@ -38,9 +38,9 @@ function setMap() {
 					.projection(projection);
 
 	svg = d3.select("#map")
-					.append("svg")
-					.attr("width", width)
-					.attr("height", height);
+		.append("svg")
+		.attr("width", width)
+		.attr("height", height);
 
 	loadData();
 	// loadCafeData();
@@ -140,7 +140,6 @@ function drawMap(airbnbFile, roadsFile) {
     				}
     			})
 
-
     		d3.select('#currentNeighborhood')
     			.text(function () {
     				return d.properties.neighbourhood;
@@ -156,8 +155,6 @@ function drawMap(airbnbFile, roadsFile) {
 
 	setupLightBox();
 	loadCafeData();
-
-
 }
 
 function loadCafeData() {
@@ -224,7 +221,6 @@ function drawCafes(cafeData) {
 		.duration(1000)
 		.attr("opacity", 0.6);
 
-
 	// draws outer coffeeshop radius
 	var coffeeShopsOverlay = svg.append("g");
 	coffeeShopsOverlay.selectAll("circle")
@@ -247,8 +243,6 @@ function drawCafes(cafeData) {
 		.duration(1000)
 		.attr("opacity", 0.15);
 
-
-
 	// draws outer coffeeshop radius
 	var tips = svg.append("g");
 	tips.selectAll("circle")
@@ -265,8 +259,6 @@ function drawCafes(cafeData) {
 			return projection(d.geometry.coordinates)[1]
 		})
 		.attr("fill", 'black');
-
-
   
 	var tip = d3.tip()
 							.attr('class', 'd3-tip')
@@ -282,7 +274,6 @@ function drawCafes(cafeData) {
 				d3.select(this).attr('opacity', 0.6);
 			}
 			tip.show(d)
-
 
 		})
 		.on('mouseout', function (d) {
@@ -330,7 +321,6 @@ function sequenceMap(allCafeDataObj, year) {
     .attr('fill-opacity', function(d) {
       return getColor(d.properties[attributeArray[currentAttribute]]);  // fill in neighborhoods with corresponding color
     })
-
 }
 
 function getColor(valueIn) {
@@ -339,7 +329,6 @@ function getColor(valueIn) {
     .range([.1,1]);   // output for opacity between .3 and 1 %
   return color(valueIn);  // return that number to the caller
 }
-
 
 function createSlider(allCafeData) {
 	var val = slider ? slider.value() : 0;
@@ -394,8 +383,6 @@ function createSlider(allCafeData) {
 	d3.selectAll("a.d3-slider-handle").style("top","-10px");
 
 }
-
-
 
 // function animateMap(allCafeData) {
 
