@@ -1,0 +1,26 @@
+b. Patisserie (37.788057, -122.440578)	http://www.yelp.com/biz/b-patisserie-san-francisco-2
+fifty/fifty (37.7815259,-122.4529934)	http://www.yelp.com/biz/fifty-fifty-coffee-and-tea-san-francisco
+Stanza Coffee (37.765072,-122.4226486)	http://www.yelp.com/biz/stanza-coffee-san-francisco
+Trouble Coffee (37.7283851,-122.3940816)	http://www.yelp.com/biz/trouble-coffee-company-san-francisco-2
+Philz (37.7813147,-122.4165902)	http://www.yelp.com/biz/philz-coffee-san-francisco-8
+Hole in the Wall Coffee (37.8007086,-122.408086)	http://www.yelp.com/biz/hole-in-the-wall-coffee-san-francisco
+Beacon Coffee & Pantry (37.802258,-122.4133476)	http://www.yelp.com/biz/beacon-coffee-and-pantry-san-francisco
+Un Cafecito (37.7844281,-122.4129842)	http://www.yelp.com/biz/un-cafecito-san-francisco
+Antigua Coffee Shop (37.7427865,-122.4783486)	http://www.yelp.com/biz/antigua-coffee-shop-san-francisco
+Red Door Coffee (37.7873388,-122.3994072)	http://www.yelp.com/biz/red-door-coffee-san-francisco-2
+Il Canto Cafe (37.7938798,-122.4005081)	http://www.yelp.com/biz/il-canto-cafe-san-francisco-2
+Martha & Brothers Co (37.7640791,-122.4622341)	http://www.yelp.com/biz/martha-and-brothers-coffee-san-francisco-10
+Acre Coffee (37.7809078,-122.4193097)	http://www.yelp.com/biz/acre-coffee-san-francisco-2
+Nespresso Boutique Bar (37.7876171,-122.4048337)	http://www.yelp.com/biz/nespresso-boutique-bar-san-francisco-2?osq=Nespresso+Boutique+at+Bloomingdale%27s
+Spiro (37.7833021,-122.420589)	http://www.yelp.com/biz/spiro-san-francisco
+Moka Coffee (37.7916797,-122.4211223)	http://www.yelp.com/biz/moka-coffee-san-francisco
+DavidsTea (37.800308,-122.440724)	http://www.yelp.com/biz/davidstea-san-francisco-12
+T-Pumps (37.7637134,-122.4786154)	http://www.yelp.com/biz/tpumps-san-francisco
+Aroma Cafe (37.7828063,-122.417134)	http://www.yelp.com/biz/aroma-cafe-san-francisco
+Bernie's (37.7894677,-122.4029354)	http://www.yelp.com/biz/bernies-san-francisco-2
+DavidsTea (37.7518133,-122.429057)	http://www.yelp.com/biz/davidstea-san-francisco-11
+The Chai Cart (37.7929318,-122.3968133)	http://www.yelp.com/biz/the-chai-cart-san-francisco-4
+Better Cup (37.7666035,-122.3881302)	http://www.yelp.com/biz/better-cup-san-francisco
+Power Up Cafe (37.7696158,-122.4068514)	http://www.yelp.com/biz/power-up-cafe-san-francisco
+B. On the Go (37.7882761,-122.4403146)	http://www.yelp.com/biz/b-on-the-go-san-francisco-4
+T-We Tea (37.789006,-122.402881)	http://www.yelp.com/biz/t-we-tea-san-francisco

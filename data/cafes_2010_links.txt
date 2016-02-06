@@ -1,0 +1,29 @@
+Contraband Coffee Bar (37.7910904,-122.419305)	http://www.yelp.com/biz/contraband-coffee-bar-san-francisco
+Ma'velous (37.7763722,-122.418116)	http://www.yelp.com/biz/mavelous-san-francisco
+Jane on Fillmore (37.7893565,-122.4342421)	http://www.yelp.com/biz/jane-on-fillmore-san-francisco
+Fresh Brew Coffee (37.7898398,-122.4118272)	http://www.yelp.com/biz/fresh-brew-coffee-san-francisco
+YakiniQ (37.7858314,-122.4288672)	http://www.yelp.com/biz/yakiniq-cafe-san-francisco-4
+Another Cafe (37.7900481,-122.4154033)	http://www.yelp.com/biz/another-cafe-san-francisco
+Cafe Sophie (37.76431,-122.429995)	http://www.yelp.com/biz/cafe-sophie-san-francisco
+Ritual Coffee Roasters (37.7763947,-122.4241927)	http://www.yelp.com/biz/ritual-coffee-roasters-san-francisco-5
+Wooly Pig Cafe (37.7651348,-122.4602861)	http://www.yelp.com/biz/wooly-pig-cafe-san-francisco
+Cup Coffee Bar (37.7324906,-122.4348275)	http://www.yelp.com/biz/cup-coffee-bar-san-francisco-2
+Curbside Coffee (37.7901196,-122.3910198)	http://www.yelp.com/biz/curbside-coffee-san-francisco
+Coffee Bar (37.790542,-122.4024798)	http://www.yelp.com/biz/coffee-bar-san-francisco
+Showplace Caffe (37.7741939,-122.4014951)	http://www.yelp.com/biz/showplace-caff%C3%A8-san-francisco-2
+New Alternatives Cafe (37.745457,-122.422472)	http://www.yelp.com/biz/new-alternatives-cafe-san-francisco-2
+Blue Fig (37.7571275,-122.4214457)	http://www.yelp.com/biz/the-blue-fig-san-francisco
+Bravado (37.7787152,-122.3914825)	http://www.yelp.com/biz/bravado-italian-coffee-bar-and-lounge-san-francisco
+Reveille Coffee Co. (37.797361,-122.401649)	http://www.yelp.com/biz/r%C3%A9veille-coffee-co-san-francisco-6
+Jebena Coffee (37.7857472,-122.4194583)	http://www.yelp.com/biz/jebena-coffee-and-tea-co-san-francisco-2
+Cafe V (37.7849417,-122.4320571)	http://www.yelp.com/biz/cafe-v-san-francisco
+Prima Cafe (37.7892933,-122.3946426)	http://www.yelp.com/biz/prima-cafe-san-francisco
+Biscoff Coffee Corner (37.8087745,-122.4099666)	http://www.yelp.com/biz/biscoff-coffee-corner-san-francisco-2
+Prima Cosa Caffe (37.79008,-122.4008835)	http://www.yelp.com/biz/prima-cosa-caffe-san-francisco
+The Bean Coffee Company (37.7845156,-122.4037486)	http://www.yelp.com/biz/the-bean-coffee-company-san-francisco
+Fog Lifter Cafe (37.7251708,-122.4624969)	http://www.yelp.com/biz/fog-lifter-cafe-san-francisco
+Beach Hut Cafe (37.8058103,-122.4490444)	http://www.yelp.com/biz/beach-hut-cafe-and-snack-bar-san-francisco
+The Posh Bagel (37.7898598,-122.4049901)	http://www.yelp.com/biz/the-posh-bagel-san-francisco-4
+Cafe Zazo (37.768692,-122.414838)	http://www.yelp.com/biz/cafe-zazo-san-francisco
+Honey Honey Cafe and Creperie (37.7877667,-122.4115534)	http://www.yelp.com/biz/honey-honey-cafe-and-crepery-san-francisco
+Cumaica Coffee (37.7755377,-122.4159116)	http://www.yelp.com/biz/cumaica-coffee-san-francisco

@@ -1,0 +1,20 @@
+Snowbird (37.763088,-122.4661216)	http://www.yelp.com/biz/snowbird-coffee-san-francisco
+Wrecking Ball Coffee Roasters (37.7967619,-122.4366321)	http://www.yelp.com/biz/wrecking-ball-coffee-roasters-san-francisco-2
+Tiny Warrior Coffee (37.7620386,-122.4188229)	http://www.yelp.com/biz/tiny-warrior-coffee-san-francisco
+Weavers Coffee & Tea (37.7637729,-122.433266)	http://www.yelp.com/biz/weavers-coffee-and-tea-san-francisco
+Paramo Coffee (37.7949146,-122.396149)	http://www.yelp.com/biz/paramo-coffee-company-san-francisco-2
+Pinhole Coffee (37.7396485,-122.4190081)	http://www.yelp.com/biz/pinhole-coffee-san-francisco-3
+Picnic on Third (37.781658,-122.3958692)	http://www.yelp.com/biz/picnic-on-third-san-francisco
+Temo Cafe (37.7528052,-122.4121396)	http://www.yelp.com/biz/temo-cafe-san-francisco
+Twisted Donuts + Coffee (37.7540332,-122.4772443)	http://www.yelp.com/biz/twisted-donuts-and-coffee-san-francisco
+Womply (37.7793705,-122.3927056)	http://www.yelp.com/biz/womply-cafe-san-francisco
+Dignata (37.7614636,-122.3884795)	http://www.yelp.com/biz/dignita-san-francisco
+Les Clos (37.7782251,-122.3938296)	http://www.yelp.com/biz/les-clos-san-francisco
+Samovar Tea (37.7662943,-122.4217284)	http://www.yelp.com/biz/samovar-tea-san-francisco-2
+La PanotiQ (37.8004997,-122.4400561)	http://www.yelp.com/biz/la-panotiq-san-francisco-2
+Greenlid Studiomix (37.7851521,-122.4208248)	http://www.yelp.com/biz/greenlid-studiomix-san-francisco
+Bartlett Hall (37.7865954,-122.4088087)	http://www.yelp.com/biz/bartlett-hall-san-francisco
+Java Trading Co (37.7823527,-122.40638)	http://www.yelp.com/biz/java-trading-company-san-francisco
+Bulldog Cafe (37.7718827,-122.4052237)	http://www.yelp.com/biz/bulldog-coffee-san-francisco?osq=bulldog+cafe
+Espresso Subito (37.7880001,-122.399838)	http://www.yelp.com/biz/espresso-subito-san-francisco-2
+Homeplate Boba (37.7845156,-122.4037486)	http://www.yelp.com/biz/homeplate-boba-san-francisco

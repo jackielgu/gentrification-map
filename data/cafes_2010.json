@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"year": 2010,
+
+"features": [
+{ "type": "Feature", "properties": { "Name": "Blue Bottle "}, "geometry": { "type": "Point", "coordinates": [-122.3935035,37.7955755] } },
+{ "type": "Feature", "properties": { "Name": "Grand Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4185404,37.7545252] } },
+{ "type": "Feature", "properties": { "Name": "Borderlands Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4215582,37.7589881] } },
+{ "type": "Feature", "properties": { "Name": "farm:table "}, "geometry": { "type": "Point", "coordinates": [-122.4143293,37.7876956] } },
+{ "type": "Feature", "properties": { "Name": "La Stazione "}, "geometry": { "type": "Point", "coordinates": [-122.3928607,37.7574869] } },
+{ "type": "Feature", "properties": { "Name": "Mercury Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4243743,37.7740028] } },
+{ "type": "Feature", "properties": { "Name": "Vega at Langton "}, "geometry": { "type": "Point", "coordinates": [-122.4110039,37.7745928] } },
+{ "type": "Feature", "properties": { "Name": "Dynamo Donut + Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4076626,37.7530427] } },
+{ "type": "Feature", "properties": { "Name": "Delise Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.412776,37.8056086] } },
+{ "type": "Feature", "properties": { "Name": "Kafe 99 SqFt "}, "geometry": { "type": "Point", "coordinates": [-122.4142652,37.762263] } },
+{ "type": "Feature", "properties": { "Name": "Fraiche "}, "geometry": { "type": "Point", "coordinates": [-122.4333613,37.7874319] } },
+{ "type": "Feature", "properties": { "Name": "Daniel's Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4089355,37.7854975] } },
+{ "type": "Feature", "properties": { "Name": "Special Xtra "}, "geometry": { "type": "Point", "coordinates": [-122.3982348,37.7886363] } },
+{ "type": "Feature", "properties": { "Name": "Cafe Seventy8 "}, "geometry": { "type": "Point", "coordinates": [-122.4217304,37.7441288] } },
+{ "type": "Feature", "properties": { "Name": "Alamo Square Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4314697,37.7760326] } },
+{ "type": "Feature", "properties": { "Name": "Haus Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4137367,37.7526578] } },
+{ "type": "Feature", "properties": { "Name": "Lous Cafe "}, "geometry": { "type": "Point", "coordinates": [-122.4733048,37.7804061] } },
+{ "type": "Feature", "properties": { "Name": "Sweet Chinito Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4186202,37.7479036] } },
+{ "type": "Feature", "properties": { "Name": "Caffe Cento "}, "geometry": { "type": "Point", "coordinates": [-122.4094565,37.7922188] } },
+{ "type": "Feature", "properties": { "Name": "Cumaica Coffee "}, "geometry": { "type": "Point", "coordinates": [-122.4366122,37.7227232] } },
+{ "type": "Feature", "properties": { "Name": "The Roastery "}, "geometry": { "type": "Point", "coordinates": [-122.399255,37.7866252] } }
+]
+}

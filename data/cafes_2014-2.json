@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"year": 2016,
+
+"features": [
+{ "type": "Feature", "properties": { "Name": "Snowbird"}, "geometry": { "type": "Point", "coordinates": [-122.4661216,37.763088] } },
+{ "type": "Feature", "properties": { "Name": "Wrecking Ball Coffee Roasters"}, "geometry": { "type": "Point", "coordinates": [-122.4366321,37.7967619] } },
+{ "type": "Feature", "properties": { "Name": "Tiny Warrior Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.4188229,37.7620386] } },
+{ "type": "Feature", "properties": { "Name": "Weavers Coffee & Tea"}, "geometry": { "type": "Point", "coordinates": [-122.433266,37.7637729] } },
+{ "type": "Feature", "properties": { "Name": "Paramo Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.396149,37.7949146] } },
+{ "type": "Feature", "properties": { "Name": "Pinhole Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.4190081,37.7396485] } },
+{ "type": "Feature", "properties": { "Name": "Picnic on Third"}, "geometry": { "type": "Point", "coordinates": [-122.3958692,37.781658] } },
+{ "type": "Feature", "properties": { "Name": "Temo's Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.4121396,37.7528052] } },
+{ "type": "Feature", "properties": { "Name": "Twisted Donuts + Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.4772443,37.7540332] } },
+{ "type": "Feature", "properties": { "Name": "Womply"}, "geometry": { "type": "Point", "coordinates": [-122.3927056,37.7793705] } },
+{ "type": "Feature", "properties": { "Name": "Dignata"}, "geometry": { "type": "Point", "coordinates": [-122.3884795,37.7614636] } },
+{ "type": "Feature", "properties": { "Name": "Les Clos"}, "geometry": { "type": "Point", "coordinates": [-122.3938296,37.7782251] } },
+{ "type": "Feature", "properties": { "Name": "Samovar Tea"}, "geometry": { "type": "Point", "coordinates": [-122.4217284,37.7662943] } },
+{ "type": "Feature", "properties": { "Name": "La PanotiQ"}, "geometry": { "type": "Point", "coordinates": [-122.4400561,37.8004997] } },
+{ "type": "Feature", "properties": { "Name": "Greenlid Studiomix"}, "geometry": { "type": "Point", "coordinates": [-122.4208248,37.7851521] } },
+{ "type": "Feature", "properties": { "Name": "Bartlett Hall"}, "geometry": { "type": "Point", "coordinates": [-122.4088087,37.7865954] } },
+{ "type": "Feature", "properties": { "Name": "Java Trading Co"}, "geometry": { "type": "Point", "coordinates": [-122.40638,37.7823527] } },
+{ "type": "Feature", "properties": { "Name": "Bulldog Cafe"}, "geometry": { "type": "Point", "coordinates": [-122.4052237,37.7718827] } },
+{ "type": "Feature", "properties": { "Name": "Espresso Subito"}, "geometry": { "type": "Point", "coordinates": [-122.399838,37.7880001] } },
+{ "type": "Feature", "properties": { "Name": "Homeplate Boba"}, "geometry": { "type": "Point", "coordinates": [-122.4037486,37.7845156] } }
+]
+}

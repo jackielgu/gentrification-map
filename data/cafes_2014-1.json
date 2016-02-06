@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"year": 2015,
+
+"features": [
+{ "type": "Feature", "properties": { "Name": "Andytown Coffee Roasters"}, "geometry": { "type": "Point", "coordinates": [-122.5022955,37.7566719] } },
+{ "type": "Feature", "properties": { "Name": "Jane on Larkin"}, "geometry": { "type": "Point", "coordinates": [-122.4184725,37.7864566] } },
+{ "type": "Feature", "properties": { "Name": "Sightglass Coffee"}, "geometry": { "type": "Point", "coordinates": [ -122.411300,37.759403] } },
+{ "type": "Feature", "properties": { "Name": "Sextant Coffee Roasters"}, "geometry": { "type": "Point", "coordinates": [-122.4129039,37.7724305] } },
+{ "type": "Feature", "properties": { "Name": "La Promenade Cafe"}, "geometry": { "type": "Point", "coordinates": [-122.4982005,37.7755184] } },
+{ "type": "Feature", "properties": { "Name": "Socola Chocolatier + Barista"}, "geometry": { "type": "Point", "coordinates": [-122.395089,37.7865549] } },
+{ "type": "Feature", "properties": { "Name": "Boba Guys"}, "geometry": { "type": "Point", "coordinates": [-122.4211746,37.75999] } },
+{ "type": "Feature", "properties": { "Name": "Espressamente Illy"}, "geometry": { "type": "Point", "coordinates": [-122.4340258,37.7631803] } },
+{ "type": "Feature", "properties": { "Name": "Peet's Coffee"}, "geometry": { "type": "Point", "coordinates": [-122.4378984,37.8008437] } },
+{ "type": "Feature", "properties": { "Name": "Javalencia Cafe"}, "geometry": { "type": "Point", "coordinates": [-122.4205967,37.7744977] } },
+{ "type": "Feature", "properties": { "Name": "Boba Delight"}, "geometry": { "type": "Point", "coordinates": [-122.4173036,37.7827561] } },
+{ "type": "Feature", "properties": { "Name": "Orivor Coffee Roasters"}, "geometry": { "type": "Point", "coordinates": [-122.5022956,37.7566759] } },
+{ "type": "Feature", "properties": { "Name": "Diamond Cafe"}, "geometry": { "type": "Point", "coordinates": [-122.4361237,37.7513327] } },
+{ "type": "Feature", "properties": { "Name": "Starbucks"}, "geometry": { "type": "Point", "coordinates": [-122.4018624,37.7903477] } }
+]
+}

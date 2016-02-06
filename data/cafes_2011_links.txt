@@ -1,0 +1,27 @@
+Blue Bottle (37.7955755,-122.3935035)	http://www.yelp.com/biz/blue-bottle-coffee-san-francisco-10
+Grand Coffee (37.7545252,-122.4185404)	http://www.yelp.com/biz/grand-coffee-san-francisco
+Borderlands Cafe (37.7589881,-122.4215582)	http://www.yelp.com/biz/borderlands-caf%C3%A9-san-francisco-2
+farm:table (37.7876956,-122.4143293)	http://www.yelp.com/biz/farm-table-san-francisco
+La Stazione (37.7574869,-122.3928607)	http://www.yelp.com/biz/la-stazione-coffee-and-wine-bar-san-francisco
+Mercury Cafe (37.7740028,-122.4243743)	http://www.yelp.com/biz/mercury-cafe-san-francisco
+Vega at Langton (37.7745928,-122.4110039)	http://www.yelp.com/biz/vega-at-langton-san-francisco-2
+Dynamo Donut + Coffee (37.7530427,-122.4076626)	http://www.yelp.com/biz/dynamo-donut-coffee-san-francisco-2
+Delise Cafe (37.8056086,-122.412776)	http://www.yelp.com/biz/delise-cafe-san-francisco-2
+Kafe 99 SqFt (37.762263,-122.4142652)	http://www.yelp.com/biz/kafe-99-sqft-san-francisco
+Fraiche (37.7874319,-122.4333613)	http://www.yelp.com/biz/fra%C3%AEche-san-francisco-3
+Daniel's Cafe (37.7854975,-122.4089355)	http://www.yelp.com/biz/daniels-cafe-san-francisco-2
+Special Xtra (37.7886363,-122.3982348)	http://www.yelp.com/biz/special-xtra-san-francisco
+Cafe Seventy8 (37.7441288,-122.4217304)	http://www.yelp.com/biz/cafe-seventy8-san-francisco
+Alamo Square Cafe (37.7760326,-122.4314697)	http://www.yelp.com/biz/alamo-square-cafe-san-francisco
+Haus Coffee (37.7526578,-122.4137367)	http://www.yelp.com/biz/haus-coffee-san-francisco
+Lou's Cafe (37.7804061,-122.4733048)	http://www.yelp.com/biz/lous-cafe-san-francisco
+Sweet Chinito (37.7479036,-122.4186202)	http://www.yelp.com/biz/sweet-chinito-san-francisco
+Caffe Cento (37.7922188,-122.4094565)	http://www.yelp.com/biz/caffe-cento-san-francisco
+Cumaica Coffee (37.7227232,-122.4366122)	http://www.yelp.com/biz/cumaica-coffee-san-francisco-5
+The Roastery (37.7866252,-122.399255)	http://www.yelp.com/biz/the-roastery-san-francisco
+The Brew (37.7993302,-122.4222261)	http://www.yelp.com/biz/the-brew-san-francisco
+Blue Hawaii Acai Cafe (37.7946342,-122.4100037)	http://www.yelp.com/biz/blue-hawaii-a%C3%A7a%C3%AD-caf%C3%A9-san-francisco-2
+Ashley's Cafe (37.7850738,-122.4655134)	http://www.yelp.com/biz/ashleys-cafe-san-francisco
+Sausalito Cafe (37.7953334,-122.40377)	http://www.yelp.com/biz/sausalito-cafe-san-francisco-4
+Coffee Smith (37.7812807,-122.4173942)	http://www.yelp.com/biz/coffee-smith-san-francisco
+Cumaica Coffee (37.7881781,-122.4408336)	http://www.yelp.com/biz/cumaica-coffee-san-francisco-3
