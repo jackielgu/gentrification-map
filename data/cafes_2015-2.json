@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"year": 2018,
-"features": [
-{ "type": "Feature", "properties": { "Name": "Mellow's Cafe"}, "geometry": { "type": "Point", "coordinates": [-122.4812737,37.74298] } },
-{ "type": "Feature", "properties": { "Name": "Blue Bottle"}, "geometry": { "type": "Point", "coordinates": [-122.4009813,37.7914343] } },
-{ "type": "Feature", "properties": { "Name": "Philz"}, "geometry": { "type": "Point", "coordinates": [-122.3989854,37.7918198] } }
-]
-}

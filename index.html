@@ -1,62 +1,60 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-		<script src="lib/topojson.v1.min.js"></script>
-		<script src="lib/queue.v1.min.js"></script>
-		<script src="lib/d3.slider.js"></script>
-		<script src="lib/d3.tip.js"></script>
-		<script src="lib/jquery.min.js"></script>
-		<link href='https://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
-		<link rel='stylesheet' type'text/css' href='main.css'/>
-		<link rel="stylesheet" href="lib/d3.slider.css" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Coffee Shops and Gentrification - jackie gu
+    </title>
+<!--     <link rel="alternate" href="https://ojack.github.io/feed.xml" type="application/rss+xml" title="portfolio">
+ -->    <link rel="icon" type="image/png" href="https://jackielgu.github.io/icon.png">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inconsolata:400,700">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Rajdhani:400,700,300">
+    <link rel="stylesheet" href="https://jackielgu.github.io/css/newstyle.css">
   </head>
+  <body class="article-detail">
+    <header class="header">
+      <div class="menu">
+        <ul id="topBar" class="menuBar">
+          <li id="name"><a href="https://jackielgu.github.io">jackie gu</a></li>
+          <li><a href="https://jackielgu.github.io">work</a></li>
+          <li><a href="https://jackielgu.github.io/contact.html">contact</a></li>
+        </ul>
+      </div>
+    </header>
+    <div id="content">
+      <div class="content-wrap">
+        <h1>Coffee Shops and Gentrification</h1>
+        <p class="date"><span>24. September 2015</span></p>
+        <article class="article">
+          <section class="content"><p>An interactive map inspired by the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in the San Francisco Bay Area in California.</p>
+<p><a href="https://jackielgu.github.io/gentrification-map"><img src="/projects/gentrification-map/thumb.png" alt="img01"></a>
+Map of coffee shops and average monthly rent in San Francisco, 2010-2015. </p>
+<p><h1> About </h1>
+Each red dot on this map represents a coffee shop. Using the sliding timeline, users can see the year a given coffee shop opened. The dots are hyperlinked to the Yelp page of the coffee shop it represents. The opacity of the neighborhood background corresponds to the median rent of a one-bedroom apartment — the higher the rent, the darker the blue.</p>
+<p>More information about the map, my motivation in creating it, and data collection methods for the map can be found on the live page.</p>
+</ul>
 
-  <body>    
+<p><a href="https://github.com/jackielgu/gentrification-map">Code</a>.</p>
+<p><h1> Press </h1></p>
+<ul>
+<li><a href="http://www.sfweekly.com/thesnitch/2015/09/24/map-are-coffee-shops-really-markers-of-gentrification" target="_blank">SF Weekly</a></li>
+<li><a href="http://www.antievictionmap.com/#/coffee-and-gentrification/" target="_blank">Anti-Eviction Mapping Project</a></li>
+<li><a href="http://dailycoffeenews.com/2015/09/25/this-interactive-map-shows-increased-rent-after-coffee-shops-appear/" target="_blank">Daily Coffee News</a></li>
+</ul>
 
- 		<div class="container">
-
- 			<div class="title-container">
- 				<div class="title-text">
- 					<h3 class="title" style="font-size: 30px; color: #545454; margin-bottom: 15px"> which came first, the coffee shop or the gentrifier? </h3>
- 					<div class="description" style="font-size: 16px; color: #545454">
- 						This map displays the geographical relationship between rent prices and coffee shops in San Francisco neighborhoods.
- 						<a id="showMore" href='#'> ... more </a> 
- 					</div>
- 				</div>
- 			</div>
-
-    	<div id="labels">
-    			Select a year: <span id="currentYear">pre-2010</span><br/>
-    			Neighborhood: <span id="currentNeighborhood"></span><br/>
- 					Average monthly rent: <span id="currentRent"></span>
- 			</div>
-
- 			    	<div id="slider-div"></div>
-
-
-    	<div id="map">
-    		<script src="map.js"></script>
-    	</div>
-
-    	<div id='essayBox'>
-    		<div id='essayBox-close' class='glyphicon glyphicon-remove'></div>
-    		<div id='essayContent'>
-					<p>Inspired by the <a href="http://www.antievictionmappingproject.net">Anti-Eviction Mapping Project</a>, this map strives to explore the link between gentrification and neighborhood coffee shops.</p>
-
-					<p>The phenomenon of gentrification is easy enough to quantify: we can look at now-and-then comparisons of racial breakdowns, percentage of college-educated adults, or average income, just to name a few numerical markers. But what's the street-view version of it? A brief perusal of Craigslist, Airbnb, or similar housing forums reveal a carelessly codified language that paint an image of what gentrification of a neighborhood physically looks like. "Safe, up-and-coming neighborhood," many advertise. "Young families," "new wine bars opening," "hip restaurants," "prime location," "artsy" &mdash; it seems clear what these terms really signify.</p> 
-
-					<p>Here's the thing: if you <i>really</i> want an idea of how high the rent in a given area is, count the yoga studios. Count the vintage clothing shops, the art galleries, the restaurants that use mason jars in place of glasses, the man-bun-sporting white millenials, the Trader Joes and Whole Foods. And, of course, the coffee shops, replete with cheeky names on chalkboard menus and $5 mint-infused mochas. It's a curious correlation: why is cold brew such an overt symbol of second-wave gentrification? And what, exactly, powers the phenomenon &mdash; do the yuppies drive rent up, or is it the swathes of trendy coffee shops that follow? Or maybe precede? Where does the displacement begin?</p>
-
-					<p>I don't have the answers to these questions, but I wanted to gather and visualize the data that might provide some insight. Each red dot on this map represents a coffee shop; the year it appears represents the year it opened. Clicking on a point will bring you to the Yelp page of that coffee shop. The opacity of the neighborhood background corresponds to the median rent of a one-bedroom apartment &mdash; the higher the rent, the darker the blue.</p>
-
-					<p>Housing data was collected via Zumper, Zillow, Priceonomics, and Padmapper. To resolve conflicting data for the same neighborhood at the same timestamp, I took the mean.</p> 
-
-					<a id="backToMap" href='#'>back to map</a>
-
-    		</div>
-
-    	</div>
-
+</section>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="content-wrap">
+        <div class="nav"><a href="/">« Home</a></div>
+        <section class="copy">
+          <p>&copy; 2015 Jackie Gu</p>
+        </section>
+      </div>
+    </footer>
   </body>
 </html>
