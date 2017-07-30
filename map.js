@@ -108,7 +108,7 @@ function drawMap(airbnbFile, roadsFile) {
 		 .attr('d', path)
 	   .attr("stroke", "#FFFFFF")
 	   .attr("stroke-width", 1)
-		 .attr('fill', "#2d5ebf")
+		 .attr('fill', "#5f83cc")
 		 .attr('fill-opacity', function(d) {
 			 return getColor(d.properties[attributeArray[currentAttribute]]);
 		 })
@@ -121,14 +121,16 @@ function drawMap(airbnbFile, roadsFile) {
 		 .on("click", function(d) {
 
 		 	 d3.selectAll(".neighbourhood")
-		 	 	.attr('fill', "#2d5ebf")
+		 	 	.attr('fill', "#5f83cc")
 		 	 	.attr('fill-opacity', function(d) {
 			 		return getColor(d.properties[attributeArray[currentAttribute]]);
 		 		})
 
 		 	 d3.select(this)
 		 	 	 .attr("fill", "#47b1bc")
-		 	 	 .attr("fill-opacity", 0.65);
+		 	 	 .attr("fill-opacity", function(d) {
+			 		return getColor(d.properties[attributeArray[currentAttribute]]);
+		 		});
 
     		
     		d3.select('#currentRent')
@@ -216,7 +218,7 @@ function drawCafes(cafeData) {
 		.attr("cy", function (d) {
 			return projection(d.geometry.coordinates)[1];
 		})
-		.attr("fill", "#de1028")
+		.attr("fill", "#8c0919")
 		.transition()
 		.duration(1000)
 		.attr("opacity", 0.6);
@@ -236,7 +238,7 @@ function drawCafes(cafeData) {
 		.attr("cy", function (d) {
 			return projection(d.geometry.coordinates)[1]
 		})
-		.attr("fill", "#e8221b")
+		.attr("fill", "#7a0312")
 		.attr("stroke", "#999")
 		.attr("stroke-width", 0.06)
 		.transition()
@@ -374,6 +376,16 @@ function createSlider(allCafeData) {
 							 		}
 							 		return mapper[currentyear];
     						})
+    			d3.select('#currentRent')
+    			.text(function () {
+    				// if (d.properties[currentyear] == 0) {
+    				// 	return "no data"
+    				// } else {
+    				// return d.properties[currentyear];
+    				// }
+    				console.log(value);
+    			})
+
 						  })
 							.value(val);
 
