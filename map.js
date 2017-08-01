@@ -108,7 +108,7 @@ function drawMap(airbnbFile, roadsFile) {
 		 .attr('d', path)
 	   .attr("stroke", "#FFFFFF")
 	   .attr("stroke-width", 1)
-		 .attr('fill', "#5f83cc")
+		 .attr('fill', "#2d5ebf")
 		 .attr('fill-opacity', function(d) {
 			 return getColor(d.properties[attributeArray[currentAttribute]]);
 		 })
@@ -121,7 +121,7 @@ function drawMap(airbnbFile, roadsFile) {
 		 .on("click", function(d) {
 
 		 	 d3.selectAll(".neighbourhood")
-		 	 	.attr('fill', "#5f83cc")
+		 	 	.attr('fill', "#2d5ebf")
 		 	 	.attr('fill-opacity', function(d) {
 			 		return getColor(d.properties[attributeArray[currentAttribute]]);
 		 		})
